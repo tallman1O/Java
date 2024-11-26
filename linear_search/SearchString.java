@@ -1,7 +1,7 @@
 package linear_search;
 
 //Question 1 - Search for a character in a string.
-public class Question1 {
+public class SearchString {
 
     public static void main(String[] args) {
         String name = "Mehul";
